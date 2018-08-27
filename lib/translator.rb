@@ -1,5 +1,5 @@
 require 'pry'
-require 'yaml'(path)
+require 'yaml'
   emoticons = YAML.load_file(path)
   emoticon_hash = Hash.new
 
