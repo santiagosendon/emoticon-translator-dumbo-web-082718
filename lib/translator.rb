@@ -11,7 +11,7 @@ require 'yaml'
     emoticon_hash["get_meaning"][emoticon_set.last] = english_word
   end
   emoticon_hash
- end
+
 end
 
 def get_japanese_emoticon(path, emoticon)
